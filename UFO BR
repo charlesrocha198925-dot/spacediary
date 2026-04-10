@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Arquivo OVNI Brasil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>👽 Arquivo OVNI Brasil</h1>
+  <p>Relatos autênticos de avistamentos no Brasil ao longo dos anos</p>
+</header>
+
+<main>
+
+<section class="noticia">
+  <h2>Noite Oficial dos OVNIs (1986)</h2>
+  <p><strong>Local:</strong> Sudeste do Brasil</p>
+  <p>
+    Em 19 de maio de 1986, radares da Força Aérea Brasileira detectaram
+    objetos voadores não identificados. Caças foram acionados e pilotos
+    relataram luzes que realizavam movimentos impossíveis.
+  </p>
+</section>
+
+<section class="noticia">
+  <h2>Operação Prato (1977)</h2>
+  <p><strong>Local:</strong> Colares - Pará</p>
+  <p>
+    A operação militar investigou luzes misteriosas que atacavam moradores.
+    Relatórios oficiais foram produzidos, incluindo fotos e depoimentos.
+  </p>
+</section>
+
+<section class="noticia">
+  <h2>Incidente de Varginha (1996)</h2>
+  <p><strong>Local:</strong> Varginha - MG</p>
+  <p>
+    Um dos casos mais famosos do Brasil. Moradores afirmaram ter visto
+    criaturas estranhas e movimentações militares intensas na cidade.
+  </p>
+</section>
+
+<section class="noticia">
+  <h2>Avistamentos na Amazônia (anos 2000)</h2>
+  <p><strong>Local:</strong> Região Norte</p>
+  <p>
+    Comunidades ribeirinhas relatam luzes no céu e objetos silenciosos
+    sobrevoando áreas isoladas da floresta.
+  </p>
+</section>
+
+</main>
+
+<footer>
+  <p>© 2026 Arquivo OVNI Brasil</p>
+</footer>
+
+</body>
+</html>body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0b0b0b;
+  color: #e0e0e0;
+}
+
+header {
+  background: #111;
+  text-align: center;
+  padding: 30px;
+  border-bottom: 2px solid #00ffcc;
+}
+
+header h1 {
+  margin: 0;
+  color: #00ffcc;
+}
+
+main {
+  padding: 20px;
+}
+
+.noticia {
+  background: #1a1a1a;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-left: 4px solid #00ffcc;
+  border-radius: 8px;
+}
+
+.noticia h2 {
+  margin-top: 0;
+  color: #00ffcc;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #111;
+  margin-top: 20px;
+  border-top: 1px solid #333;
+}
