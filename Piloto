@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Space Diary - OVNIs no Brasil</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0a0a0a;
+    color: #e0e0e0;
+}
+
+header {
+    background: linear-gradient(90deg, black, #111);
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #00ffcc;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #00ffcc;
+}
+
+nav {
+    background: #111;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #00ffcc;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.container {
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.article {
+    background: #111;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 4px solid #00ffcc;
+}
+
+.article h2 {
+    color: #00ffcc;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: black;
+    border-top: 2px solid #00ffcc;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>🛸 SPACE DIARY</h1>
+    <p>Relatos reais, documentos secretos e mistérios do céu brasileiro</p>
+</header>
+
+<nav>
+    <a href="#">Início</a>
+    <a href="#">Casos Famosos</a>
+    <a href="#">Relatórios</a>
+    <a href="#">Depoimentos</a>
+</nav>
+
+<div class="container">
+
+    <div class="article">
+        <h2>👽 Caso Varginha (1996)</h2>
+        <p><b>Local:</b> Varginha - MG</p>
+        <p><b>Data:</b> 20 de janeiro de 1996</p>
+
+        <p>
+        Três jovens afirmaram ter visto uma criatura humanoide com olhos vermelhos e pele escura.
+        O caso ganhou repercussão nacional e envolveu relatos de movimentação militar.
+        </p>
+
+        <p>
+        Segundo testemunhas, uma nave teria caído na região, e seres foram capturados e levados pelo Exército.
+        </p>
+
+        <p><b>Status:</b> Não explicado oficialmente</p>
+    </div>
+
+    <div class="article">
+        <h2>🚨 Operação Prato (1977)</h2>
+        <p><b>Local:</b> Colares - Pará</p>
+        <p><b>Data:</b> 1977</p>
+
+        <p>
+        A Força Aérea Brasileira realizou uma operação para investigar luzes misteriosas que atacavam moradores.
+        </p>
+
+        <p>
+        Relatos indicam feixes de luz que causavam queimaduras e até perda de sangue.
+        </p>
+
+        <p>
+        Foram registrados vídeos, fotos e depoimentos.
+        </p>
+
+        <p><b>Status:</b> Arquivos parcialmente liberados</p>
+    </div>
+
+    <div class="article">
+        <h2>🛸 Noite Oficial dos OVNIs (1986)</h2>
+        <p><b>Local:</b> Sudeste do Brasil</p>
+        <p><b>Data:</b> 19 de maio de 1986</p>
+
+        <p>
+        Mais de 20 objetos foram detectados por radares e perseguidos por caças da FAB.
+        </p>
+
+        <p>
+        Os objetos realizavam manobras impossíveis para aeronaves convencionais.
+        </p>
+
+        <p><b>Status:</b> Confirmado pela Aeronáutica</p>
+    </div>
+
+    <div class="article">
+        <h2>📄 Relatórios Oficiais</h2>
+        <ul>
+            <li>Arquivos da FAB liberados pelo Arquivo Nacional</li>
+            <li>Gravações de pilotos da Noite dos OVNIs</li>
+            <li>Relatórios militares da Operação Prato</li>
+        </ul>
+    </div>
+
+    <div class="article">
+        <h2>🧑‍🚀 Depoimentos</h2>
+        <p><b>Morador de Colares:</b> "A luz vinha do céu e nos paralisava."</p>
+        <p><b>Piloto da FAB:</b> "Os objetos desapareciam instantaneamente."</p>
+        <p><b>Testemunha em Varginha:</b> "Aquilo não era humano."</p>
+    </div>
+
+</div>
+
+<footer>
+    <p>© 2026 Space Diary - Arquivo de Ufologia Brasileira</p>
+</footer>
+
+</body>
+</html>
